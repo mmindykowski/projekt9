@@ -1,0 +1,18 @@
+h1 {
+    font-size: 40px;
+    color: #33319e;
+}
+
+p {
+    font-size: 26px;
+    
+}
+
+span {
+    color: rgb(187, 23, 37);
+}
+
+h1,
+p {
+    text-align: center;
+}
